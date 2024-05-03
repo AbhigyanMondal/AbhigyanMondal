@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhigyanMondal
-- 👀 I’m interested in coding in Language C and python
-- 🌱 I’m currently learning BTech in EEE
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cybersecurity and Artificial Intelligence
+- 🌱 I’m currently learning BTech in ECE
+- 💞️ I’m looking to collaborate on projects of my domain
 - 📫 How to reach me - abhigyanmondal01@gmail.com  / 7044968895
 
 <!---
